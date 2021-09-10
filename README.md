@@ -61,8 +61,9 @@ firebase init database
 
 ### 프로젝트 구축
 
-- 참고 소스: https://raw.githubusercontent.com/okachijs/jsframeworkbook/master/2_5_server/functions/index.js
-- functions\index.js 파일 
+- 참고 소스: https://github.com/okachijs/jsframeworkbook
+- 2_5_server\functions\index.js 파일
+- TODO: 분석하기
 
 ### 테스트 하기
 
